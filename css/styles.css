@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Ephesis&family=Roboto:ital,wght@0,400;0,500;1,400&display=swap');
+
+html{
+ font-family: 'Roboto', sans-serif;
+ text-align: center;
+ background: rgb(0,36,15);
+ background: linear-gradient(90deg, rgba(0,36,15,1) 0%, rgba(181,255,158,1) 49%, rgba(0,212,255,1) 100%);
+}
